@@ -1,0 +1,7 @@
+﻿name: clean_feature
+description: A new brick created with the Mason CLI.
+vars:
+  - name
+  - path
+  - pipe
+  

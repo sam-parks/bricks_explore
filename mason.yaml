@@ -1,0 +1,17 @@
+# Register bricks which can be consumed via the Mason CLI.
+# https://pub.dev/packages/mason
+bricks:
+  clean_feature:
+    path: bricks/clean_feature
+  repo:
+    git: 
+      url: https://github.com/mrgnhnt96/quick_bricks.git
+      path: flutter/repo
+  cubit:
+    git: 
+      url: https://github.com/mrgnhnt96/quick_bricks.git
+      path: flutter/cubit
+  feature:
+    git: 
+      url: https://github.com/mrgnhnt96/quick_bricks.git
+      path: flutter/feature

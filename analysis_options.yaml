@@ -1,0 +1,4 @@
+﻿analyzer:
+  exclude:
+    - "bricks/**"
+    - "example/**"
